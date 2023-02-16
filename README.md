@@ -1,4 +1,5 @@
 # VillanTV-backend
+[![CodeFactor](https://www.codefactor.io/repository/github/mime-a-mjupps/villantv-backend/badge)](https://www.codefactor.io/repository/github/mime-a-mjupps/villantv-backend)
 This repository contains the backend for the system used at Studentpuben Villan
 
 A lightweight API server and Spotify wrapper that allows you to display the music you're currently listening to 🎸🎺.
